@@ -1,3 +1,11 @@
+
+fx_version 'cerulean'
+games { 'rdr3', 'gta5' }
+
+author 'LiamInChains#9999  - ilAn#7021 '
+description 'Partizan Whitelist 10 shit system'
+version '1.0.0'
+
 shared_scripts {
     'config/*'
 }
@@ -19,4 +27,3 @@ files {
     'ui/main.js',
     'ui/style.css'
 }
-Author 'Liam01#3776'
